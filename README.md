@@ -6,8 +6,6 @@ Desenvolvedor web junior - Dotnet
 
 "Quando o modelo de vida leva a um esgotamento, é fundamental questionar se vale a pena continuar no mesmo caminho."
 
-<br>
-
 ## Contato
 
 <p align="left" style="background:yellow">
