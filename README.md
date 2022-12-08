@@ -8,10 +8,6 @@ Desenvolvedor web junior - Dotnet
 
 <br>
 
-## Github Statistics
-
-![Undersin github stats](https://github-readme-stats.vercel.app/api?username=under-sin&theme=tokyonight&show_icons=true)
-
 ## Contato
 
 <p align="left" style="background:yellow">
