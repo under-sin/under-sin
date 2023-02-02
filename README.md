@@ -1,4 +1,4 @@
-<h2 align="left">Anderson Vieira (ou Undersin)</h2>
+<h2 align="left">Anderson Vieira</h2>
 
 Desenvolvedor web junior - Dotnet
 
