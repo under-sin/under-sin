@@ -18,7 +18,7 @@ Desenvolvedor web junior - Dotnet
  <img align="center" src="https://img.shields.io/badge/-@undersin-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a target="_blank">
- <img align="center" src="https://img.shields.io/badge/-under-sin@outlook.com-05122A?style=flat&logo=outlook" alt="email"/>
+ <img align="center" src="https://img.shields.io/badge/-andersonvieira818@yahoo.com-05122A?style=flat&logo=yahoo" alt="email"/>
 </a>
 
 </p>
