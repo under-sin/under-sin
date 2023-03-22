@@ -1,8 +1,10 @@
 <h2 align="left">Anderson Vieira</h2>
 
-Desenvolvedor web junior - Dotnet
+Desenvolvedor .NET
 
-"Quando o modelo de vida leva a um esgotamento, é fundamental questionar se vale a pena continuar no mesmo caminho."
+Atualmente estou com um foco maior no front-end com Reactjs
+
+"Nas horas difíceis, jamais abaixe a cabeça, porque a solução para o seu problema não está no chão, e sim na sua determinação."
 
 ## Contato
 
