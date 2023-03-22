@@ -4,7 +4,8 @@ Desenvolvedor .NET
 
 Atualmente estou com um foco maior no front-end com Reactjs
 
-"Nas horas difíceis, jamais abaixe a cabeça, porque a solução para o seu problema não está no chão, e sim na sua determinação."
+"Nas horas difíceis, jamais abaixe a cabeça, porque a solução 
+para o seu problema não está no chão, e sim na sua determinação."
 
 ## Contato
 
