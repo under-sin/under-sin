@@ -2,7 +2,7 @@
 
 Desenvolvedor .NET
 
-Atualmente estou com um foco maior no front-end com Reactjs
+Atualmente interessado em aprender Ruby on Rails
 
 "Nas horas difíceis, jamais abaixe a cabeça, porque a solução 
 para o seu problema não está no chão, e sim na sua determinação."
