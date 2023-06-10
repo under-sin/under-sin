@@ -1,4 +1,4 @@
-<h2 align="left">Anderson Vieira</h2>
+<h2 align="left">Anderson</h2>
 
 Desenvolvedor .NET
 
