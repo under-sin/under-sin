@@ -2,8 +2,6 @@
 
 Desenvolvedor .NET
 
-Atualmente interessado em aprender Ruby on Rails
-
 "Nas horas difíceis, jamais abaixe a cabeça, porque a solução 
 para o seu problema não está no chão, e sim na sua determinação."
 
